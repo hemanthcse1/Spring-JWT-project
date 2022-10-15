@@ -26,4 +26,6 @@ public class AuthController {
         LOG.debug("Token granted {}", token);
         return token;
     }
+
+
 }
